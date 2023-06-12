@@ -31,4 +31,6 @@ Browse to the url http://<LB-PUBLIC-IP>/Test/ of the LB server - In our case it 
 
     http://3.97.8.60/Test/
 
- And congrats, you re connected to MongoDB Server through the three tiered application!
+ And congrats, you're connected to MongoDB Server through the three tiered application!
+
+ * Some screenshots are attached
